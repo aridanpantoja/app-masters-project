@@ -10,7 +10,7 @@ export default function Home() {
       <Header/>
 
       <main className="w-full max-w-7xl px-4">
-        <Suspense fallback={<Loading/>}>
+        <Suspense fallback={<Loading />}>
           <FetchData />
         </Suspense>
       </main>
