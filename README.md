@@ -15,24 +15,24 @@
 <h2>Instalação</h2>
 <p>1. Clone o repositório</p>
 
-´´´
+```
 bash
 git clone https://github.com/aridanpantoja/app-master-project.git
-´´´
+```
 
 <p>2. Instale o package</p>
 
-´´´
+```
 bash
 npm install
-´´´
+```
 
 <h2>Executando</h2>
 
-´´´
+```
 bash
 npm run dev
-´´´
+```
 
 <h2>Desenvolvido com</h2>
 
