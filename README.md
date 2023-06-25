@@ -2,7 +2,13 @@
   <img src="https://github.com/aridanpantoja/app-masters-project/assets/70522543/5d2fd3bb-ef13-4efe-b93b-74e701086124" alt="App Masters Games" width="600">
 </p>
 
-<p align="center">
+<div align="center" style="display: inline_block">
+  <img align="center" alt="tech-react" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  &nbsp;
+  <img align="center" alt="tech-nextjs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  &nbsp;
+  <img align="center" alt="tech-tailwind" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  &nbsp;
   <img align="center" alt="tech-javascript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
