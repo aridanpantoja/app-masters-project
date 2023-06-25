@@ -6,7 +6,7 @@
   Projeto desenvolvido para o processo de seleção na vaga de estágio Front-End React da <strong>App Masters</strong>
   <br>
   <br>
-  <a href="https://alura-masters-project.vercel.app"><strong>Ver deploy na Vercel »</strong></a>
+  <a href="https://app-masters-project-eight.vercel.app"><strong>Ver deploy na Vercel »</strong></a>
   &nbsp;
   <a href="https://www.figma.com/file/QHLq8sa3waBtj4tN451jHK/App-Masters?type=design&node-id=0%3A1&mode=design&t=vTF83qX1rScfu4D8-1"><strong>Ver design no Figma »</strong></a>
   <br>
